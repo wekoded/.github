@@ -2,7 +2,7 @@
   <samp>
     <b>¡Hola, Somos WEKODED!👋</b>
     <br>
-    Hybrid Ventures & Content Company.
+    Hybrid Enterprises Group.
     <br>
     <br>
     Creamos, contribuimos y apoyamos proyectos de código abierto.<br>
