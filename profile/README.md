@@ -5,7 +5,7 @@
     <br>
     Creamos, contribuimos y apoyamos proyectos de código abierto.<br>
     Esta organización alberga muchos de los proyectos en los que<br>
-    trabajamos y los proporcionamos a la comunidad.
+    trabajamos y proporcionamos a la comunidad.
     <br>
     <br>
     <b>~ 💻 Siempre puedes aprender algo más. 💻 ~</b>
