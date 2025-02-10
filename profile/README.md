@@ -2,8 +2,6 @@
   <samp>
     <b>¡Hola, Somos WEKODED!👋</b>
     <br>
-    Hybrid Enterprises Group.
-    <br>
     <br>
     Creamos, contribuimos y apoyamos proyectos de código abierto.<br>
     Esta organización alberga muchos de los proyectos en los que<br>
